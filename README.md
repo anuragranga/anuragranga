@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Anurag Ranga.
+- 👀 I’m a Proactive Student with superior skills in C, Verilog, VHDL, System Verilog, UVM and MS Office. 
+- 🌱 I’m currently learning C++, verilog and SV along with some protocols.
+- 💞️ I’m looking to collaborate on Design and Verification projects in Electrical and Computer Engineering.
+- 📫 You can reach me via Linkedin or my mail [ ranganurag2001@gmail.com   and   anuragranga2712@gmail.com ] ✨✨
